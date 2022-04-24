@@ -1,35 +1,3 @@
-# Exercise Evaluation for Zalkifl
-| Points | Consideration | Notes |
-|-------|-----------|------|
-| -1    | [ ] Has left comments in the code |             |
-| -2    | [ ] Code is messy and difficult to read |             |
-| -10   | [ ] The application doesn't run | |
-| +2    | [ ] Has Focused mostly on the FE of the application | |
-| +2    | [ ] Has Focused mostly on the BE of the application ||
-| +4    | [ ] Has Dedicated same amount of care for the Front End and Back end ||
-| -5    | [ ] There are major flows on the logic | (Some application logic are messy and somehow a bit unclear. Some aspect of the application could be improved, like the way the candidate retrieves information form the backend)|
-| +1    | [ ] Has presented an ER diagram. | | 
-| +2    | [ ] Has considered potential caching in the application ||
-| +2    | [ ] Has used Rest ||
-| +4    | [ ] Has used GraphQL ||
-| +4    | [ ] The ER diagram considers potential scaling to multi location | | 
-| +2    | [ ] Naming Convention is adequate | |
-| +8    | [ ] Naming Convention is Amazing | |
-| +5    | [ ] Application has test cases  | |
-| +3    | [ ] Application uses scss correctly  | |
-
-Current application score +1.
-
-Score ranges from -18 to +36, score will change based on the verbal interview with the candidate.
-
-Minimum score to pass jr    +18
-Minimum score to pass mid   +24
-Minimum score to pass sr+   +28
-
-# Forum Brands Full Stack Application Exercise
-***Hi! We are super excited to see what you are able to create***
-
-***Duration***: We don't expect you to take more than 2~4h to finish the exercise.
 
 ## The Exercise
 You are in the forefront of creating a new internal dashboard for an amazing Shelter. 
