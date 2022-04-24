@@ -1,0 +1,46 @@
+[
+    {
+    "type": "cat",
+    "name": "Varisa",
+    "description": "Grey Tabby Cat, loves cuddles",
+    "checkedInDate": 1643053672,
+    "img": "./server/catImages/Eric1",
+    "adoptionInfo": {
+    "ownerName": "James Made"
+    }
+  },
+  {
+    "type": "cat",
+    "name": "Musci",
+    "description": "Orange Tabby Cat, playful and vocal",
+    "checkedInDate": 1643053672,
+    "img": "./server/catImages/whiskers1",
+    "adoptionInfo": null
+  },
+  {
+    "type": "cat",
+    "name": "Luna",
+    "description": "Black cat, very sweet, loves pets",
+    "checkedInDate": 1643053672,
+    "img": "./server/catImages/Luna1",
+    "adoptionInfo": {
+      "ownerName": "Anngie Rascal"
+    }
+  },
+  {
+    "type": "cat",
+   " name": "Peaches",
+    "description": "Grey and Orange Tabby Cat, lap cat",
+    "checkedInDate": 1643053672,
+    "img": "./server/catImages/Peaches2",
+    "adoptionInfo": null
+  },
+  {
+    "type": "cat",
+    "name": "Pancake",
+    "description": "Grey Tabby Cat, playful",
+    "checkedInDate": 1643053672,
+    "img": "./server/catImages/Pancake4",
+    "adoptionInfo": null
+  }
+]
