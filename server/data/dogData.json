@@ -1,37 +1,41 @@
 [
     {
+        "id": "1",
         "type": "dog",
         "name": "Cookie",
         "description": "White Terrier, energetic needs lots of walks",
         "checkedInDate": 1643053672,
-        "img": "./server/dogImages/Cookie2",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLFhOyCTeZx0-92TvIrgEgridobcJzsOuN3g&usqp=CAU",
         "adoptionInfo": {
         "ownerName": "Ankit Devi"
         }
     },{
+        "id": "2",
         "type": "dog",
         "name": "Jenny",
         "description": "Black lab, big sweetie, wants lots of cuddles",
         "checkedInDate": 1643053672,
-        "img": "./server/dogImages/Jenny2",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqCJBpTdPtmGI6fXAyIFZEPm3aL_7_aFPiw&usqp=CAU",
         "adoptionInfo": null
     },
     {
+        "id": "3",
         "type": "dog",
         "name": "Lenny",
         "description": "Black and white pitbull, loves attention",
         "checkedInDate": 1643053672,
-        "img": "./server/dogImages/Lenny3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpcoTx4RiOwokpcQAXAnimPh16BtVmscBGHA&usqp=CAU",
         "adoptionInfo": {
         "ownerName": "Leslie Cook"
         }
     },
     {
+        "id": "4",
         "type": "dog",
         "name": "Mesha",
         "description": "Black and brown Rottweiler mix, high energy",
         "checkedInDate": 1643053672,
-        "img": "./server/dogImages/Mesha1",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1B7ZACTg_A3KXh-rxX31KH3_lbzeitVrg&usqp=CAU",
         "adoptionInfo": null
     }
 ]

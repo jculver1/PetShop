@@ -1,0 +1,21 @@
+
+.petlist-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    padding: 1rem;
+  
+    .petinfo-card {
+        outline: .3rem solid rgb(228, 121, 228);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem;
+        .pet-image {
+            height: 10rem;
+            width: 12rem;
+        }
+    }
+
+}
+
