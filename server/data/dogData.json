@@ -3,18 +3,18 @@
         "id": "1",
         "type": "dog",
         "name": "Cookie",
-        "description": "White Terrier, energetic needs lots of walks",
-        "checkedInDate": 1643053672,
+        "description": "Cookie is a White Terrier mix. She is a little shy and would do better in a quiet household.",
+        "checkedInDate":  "2022-04-25",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLFhOyCTeZx0-92TvIrgEgridobcJzsOuN3g&usqp=CAU",
         "adoptionInfo": {
-        "ownerName": "Ankit Devi"
+            "ownerName": "Ankit Devi"
         }
     },{
         "id": "2",
         "type": "dog",
         "name": "Jenny",
-        "description": "Black lab, big sweetie, wants lots of cuddles",
-        "checkedInDate": 1643053672,
+        "description": "Black lab mix. She loves cuddles and playtime. One moment she will be sleeping and the next running around in circles",
+        "checkedInDate": "2022-04-19",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqCJBpTdPtmGI6fXAyIFZEPm3aL_7_aFPiw&usqp=CAU",
         "adoptionInfo": null
     },
@@ -22,19 +22,19 @@
         "id": "3",
         "type": "dog",
         "name": "Lenny",
-        "description": "Black and white pitbull, loves attention",
-        "checkedInDate": 1643053672,
+        "description": "High energy! Lenny is still a puppy and needs lots of walks, play time, and some training.",
+        "checkedInDate":  "2022-03-04",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpcoTx4RiOwokpcQAXAnimPh16BtVmscBGHA&usqp=CAU",
         "adoptionInfo": {
-        "ownerName": "Leslie Cook"
+            "ownerName": "Leslie Knope"
         }
     },
     {
         "id": "4",
         "type": "dog",
-        "name": "Mesha",
-        "description": "Black and brown Rottweiler mix, high energy",
-        "checkedInDate": 1643053672,
+        "name": "Queen",
+        "description": "Queen is a lapdog who loves treats. She loves to be held and wants to be the center of attention",
+        "checkedInDate":  "2022-03-10",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1B7ZACTg_A3KXh-rxX31KH3_lbzeitVrg&usqp=CAU",
         "adoptionInfo": null
     }

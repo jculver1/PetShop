@@ -2,8 +2,8 @@
     {
     "id": "1",
     "type": "cat",
-    "name": "Varisa",
-    "description": "Grey Tabby Cat, loves cuddles",
+    "name": "Panda",
+    "description": "Meet Panda! He is a sweet cat who loves to snuggle and play with mice.",
     "checkedInDate": "2022-04-12",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx9i-vjKEiePWewoLIfg9DEVlCraFAAgXd-g&usqp=CAU",
     "adoptionInfo": {
@@ -14,7 +14,7 @@
     "id": "2",
     "type": "cat",
     "name": "Musci",
-    "description": "Orange Tabby Cat, playful and vocal",
+    "description": "Musci is about 5 years old. He is a character who will bring a smile to your face. He is very playful and vocal.",
     "checkedInDate": "2022-02-19",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNyI5Bbsl1vq1BQjH9XA-Z4j0Kkk0cEpAnA&usqp=CAU",
     "adoptionInfo": null
@@ -23,8 +23,8 @@
     "id": "3",
     "type": "cat",
     "name": "Luna",
-    "description": "Black cat, very sweet, loves pets",
-    "checkedInDate":"2022-03-12",
+    "description": "Luna is a playful little kitten! She loves other cats and even gets along great with dogs!",
+    "checkedInDate":"2022-04-22",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOrOwY43A2IXz1v0yLjmHVWj0d2_YMm_6eA&usqp=CAU",
     "adoptionInfo": {
       "ownerName": "Anngie Rascal"
@@ -33,8 +33,8 @@
   {
     "id": "4",
     "type": "cat",
-   " name": "Peaches",
-    "description": "Grey and Orange Tabby Cat, lap cat",
+    "name": "Peaches",
+    "description": "Peaches is a little older, but you wouldn't know it based on her energy levels. She loves to run and then take long naps in the sun.",
     "checkedInDate": "2022-04-12",
     "img": "https://i.natgeofe.com/n/46b07b5e-1264-42e1-ae4b-8a021226e2d0/domestic-cat_thumb_square.jpg",
     "adoptionInfo": null
@@ -42,8 +42,8 @@
   {
     "id": "5",
     "type": "cat",
-    "name": "Pancake",
-    "description": "Grey Tabby Cat, playful",
+    "name": "Smokey",
+    "description": "Smokey is a little shy at first, but once he gets to know you - he won't leave your side. He would do better in a household without small children",
     "checkedInDate": "2022-03-21",
     "img": "https://learn.zoner.com/wp-content/uploads/2021/06/tips-for-editing-cat-photos.jpg",
     "adoptionInfo": null

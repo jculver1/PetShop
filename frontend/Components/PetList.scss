@@ -1,4 +1,8 @@
 
+.error-message{
+    color: rgb(123, 11, 11);
+    text-align: center;
+}
 .page-header {
     display: flex;
     flex-direction: rows;
@@ -23,6 +27,23 @@
         .pet-image {
             height: 10rem;
             width: 12rem;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            input {
+                margin: 1rem;
+            }
+            textarea {
+                margin: 1rem;
+            }
+        }
+        .submit-form-buttons {
+            display: flex;
+            button {
+                margin: 1rem;
+            }
+            
         }
     }
 
