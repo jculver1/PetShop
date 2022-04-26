@@ -22,25 +22,21 @@ const editPet = (id, jsonObj, newInfo) => {
 }
 
 server.get('/cats', (req, res) => {
-  res.send(JSON.stringify(catJson))
+  res.status(200).send(JSON.stringify(catJson))
 })
 
 server.put('/cat/:id', (req, res) => {
-  console.log(req.params.id, req.body)
   editPet(req.params.id, catJson, req.body)
-  
-  res.send(JSON.stringify(catJson))
-  
- 
+  res.status(200).send(JSON.stringify(catJson))
 })
 
 server.get('/dogs', (req, res) => {
-  res.send(JSON.stringify(dogJson))
+  res.status(200).send(JSON.stringify(dogJson))
 })
 
 server.put('/dog/:id', (req, res) => {
   editPet(req.params.id, dogJson, req.body)
-  res.send(JSON.stringify(dogJson))
+  res.status(200).send(JSON.stringify(dogJson))
 })
 
 server.listen(3000, (err) => {

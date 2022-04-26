@@ -4,7 +4,7 @@
     "type": "cat",
     "name": "Varisa",
     "description": "Grey Tabby Cat, loves cuddles",
-    "checkedInDate": 1643053672,
+    "checkedInDate": "2022-04-12",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx9i-vjKEiePWewoLIfg9DEVlCraFAAgXd-g&usqp=CAU",
     "adoptionInfo": {
     "ownerName": "James Made"
@@ -15,7 +15,7 @@
     "type": "cat",
     "name": "Musci",
     "description": "Orange Tabby Cat, playful and vocal",
-    "checkedInDate": 1643053672,
+    "checkedInDate": "2022-02-19",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNyI5Bbsl1vq1BQjH9XA-Z4j0Kkk0cEpAnA&usqp=CAU",
     "adoptionInfo": null
   },
@@ -24,7 +24,7 @@
     "type": "cat",
     "name": "Luna",
     "description": "Black cat, very sweet, loves pets",
-    "checkedInDate": 1643053672,
+    "checkedInDate":"2022-03-12",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOrOwY43A2IXz1v0yLjmHVWj0d2_YMm_6eA&usqp=CAU",
     "adoptionInfo": {
       "ownerName": "Anngie Rascal"
@@ -35,7 +35,7 @@
     "type": "cat",
    " name": "Peaches",
     "description": "Grey and Orange Tabby Cat, lap cat",
-    "checkedInDate": 1643053672,
+    "checkedInDate": "2022-04-12",
     "img": "https://i.natgeofe.com/n/46b07b5e-1264-42e1-ae4b-8a021226e2d0/domestic-cat_thumb_square.jpg",
     "adoptionInfo": null
   },
@@ -44,7 +44,7 @@
     "type": "cat",
     "name": "Pancake",
     "description": "Grey Tabby Cat, playful",
-    "checkedInDate": 1643053672,
+    "checkedInDate": "2022-03-21",
     "img": "https://learn.zoner.com/wp-content/uploads/2021/06/tips-for-editing-cat-photos.jpg",
     "adoptionInfo": null
   }

@@ -12,12 +12,21 @@ export const fetchDogs = () => {
 }
 
 export const editCatInfo = (id, updatedCatObj) => {
-    console.log(updatedCatObj, 'cat')
     return fetch("http://localhost:3000/cat/" + id,
         {  
             method: "PUT",
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify(updatedCatObj)
+        }
+    )
+}
+
+export const editDogInfo = (id, updateDogObj) => {
+    return fetch("http://localhost:3000/dog/" + id,
+        {  
+            method: "PUT",
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify(updateDogObj)
         }
     )
 }

@@ -1,4 +1,13 @@
 
+.page-header {
+    display: flex;
+    flex-direction: rows;
+    justify-content: center;
+    align-items: center;
+    h2 {
+        padding: 2rem;
+    }
+}
 .petlist-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

@@ -1,31 +1,35 @@
-import React, {useState, useEffect, useCallback} from 'react';
-import {editCatInfo} from '../helpers'
+import React, { useState } from 'react';
+import { editCatInfo, editDogInfo } from '../apis'
 
-const PetInfo = ({pet, updatePetInfo}) => {
+const PetInfo = ({pet, setPets, setErrrorDetails}) => {
     const [editField, setEditField] = useState(false);
     const [petDetails, setPetDetails] = useState(pet)
 
     const editPetInfo = (e) => {
         petDetails[e.target.id] = e.target.value
-        console.log(petDetails, 'testing petDetails')
-        // setPetDetails(updatePetDetails)
     }
 
     const saveChanges = () => {
-        //put request
         if(pet.type === 'cat') {
-            editCatInfo(pet.id, petDetails).then(res => {
-                res.json( res => 
-                    console.log(res, 'response')
-                    )
-             
-                // setCats(res)
+            editCatInfo(pet.id, petDetails).then((resp) => {
+                resp.json().then(resp => 
+                    setPets(resp)
+                ).catch(err => {
+                    setErrrorDetails(err)
+                })  
             })
-            //cat put request
         } else {
-            //dog put request
+            editDogInfo(pet.id, petDetails).then((resp) => {
+                resp.json()
+                .then( resp => 
+                    setPets(resp)
+                    ).catch(err => {
+                        setErrrorDetails(err)
+                    })  
+            })
         }
         setEditField(false);
+        console.log(editField, 'edit fields')
     }
 
     const cancelChanges = () => {
